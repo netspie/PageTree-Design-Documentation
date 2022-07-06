@@ -10,5 +10,5 @@ The processes and documentation styles in this documentation are mainly inspired
 
 ### Table of Contents
 - [Introduction](/docs/Introduction.md)
-- [Project Charter](/docs/Project_Charter.md)
+- [Project Charter](/docs/Project%20Charter.md)
 
