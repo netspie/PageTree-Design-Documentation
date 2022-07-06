@@ -1,13 +1,13 @@
     
 # Introduction
 
-The project described in this documentation is a graphical user interface library of reusable graphical lists and list elements for hierarchical and interconnected data manipulation, organization and presentation. 
+*This section has a form similar to an essay, consisting of loosely structured thoughts which serves as a preliminary summary. The rest of the documentation is going to be organized in as granular way as it possibly makes sense, so you can find anything easily. All of the subsequent pages are a detailed description of information presented here, so you can move on any time if you're looking for something specific.*
+
+The project described in this documentation is a graphical user interface library for Unity3D engine. It is supposed to consist of various, reusable graphical lists and list elements for hierarchical and interconnected data manipulation, organization and presentation. 
 
 There are several purposes for this project to develop, all of them will be described in detail later. The same goes for the documentation itself.
 
-However, main guilty here is another application developed. Its identified features so far share a large extent of functionality, so to reduce an unneccesarily repeated work it seems the best to have a reusable and easily extentable common basis.
-
-The project should display some portion of qualities. This is why the documentating all of them and tracking is essential.
+However, main guilty here is another application developed. Its identified features so far share a large extent of functionality, so to reduce an unneccesarily repeated work it seems the best to have a reusable and easily extentable common basis, which display a portion of essential qualities. This is why the documenting all of them and tracking is critical.
 
 Simple now, easily extentable.
 
@@ -42,3 +42,5 @@ As for domain problem of course I mean there are specific ones, but it can be us
 
 The key is to progress the project to the point where it is usable enough for the target application, so the original domain problem might be started to be worked on.  
 And it has to be done as quickly as possible, so later appropriate time might be delegated for both original domain problem solving and further development in parallel on daily basis.
+
+
