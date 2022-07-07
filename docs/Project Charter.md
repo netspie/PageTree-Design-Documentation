@@ -15,7 +15,7 @@
 
 **Other**  
 &nbsp;&nbsp;&nbsp;&nbsp;\- To serve as a portfolio  
-&nbsp;&nbsp;&nbsp;&nbsp;\- To enhance software enginnering skills  
+&nbsp;&nbsp;&nbsp;&nbsp;\- To enhance software enginnering and design skills  
 &nbsp;&nbsp;&nbsp;&nbsp;\- To help others  
 
 ## Essential Requirements
