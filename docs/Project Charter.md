@@ -20,16 +20,14 @@
 
 ## Essential Requirements
 
-**Functionalities**  
+### Functionalities
 
 Create/Remove sibling or child item  
 Edit item data  
 Reorder/Move item  
 Expand/Collapse item  
   
-  
-  
-**Qualities**  
+### Qualities 
 
 *Extendability*  
 &nbsp;&nbsp;&nbsp;&nbsp;New custom UI elements should be easily added to existing list items (dropdowns, images, backgrounds, texts, buttons etc.)  
@@ -42,6 +40,31 @@ Expand/Collapse item
 
 *UI Usability*  
 &nbsp;&nbsp;&nbsp;&nbsp; Resizability - when resizing/editing time while development it should be smartly fit
+
+*Performance*  
+&nbsp;&nbsp;&nbsp;&nbsp; Quick list presentation and rebuild after modification
+
+**Out of scope**  
+
+Following qualities may be introduced in the future, but for a minimal product might be omitted right now, however it is important to structure project in such a way, so it is easy to extend.  
+
+*User Error Protection*  
+&nbsp;&nbsp;&nbsp;&nbsp;Inform about potentially unsafe operations (exit, delete data/state/save, items)  
+
+*Performance*  
+&nbsp;&nbsp;&nbsp;&nbsp;Large number of items instantiation  
+
+*Content Presentation*  
+&nbsp;&nbsp;&nbsp;&nbsp;Preserve too many items presented at once  
+
+*Navigation/Undo/Redo*  
+&nbsp;&nbsp;&nbsp;&nbsp;Remembering user actions - it actually should be in scope of different project  
+
+*Feedback Mechanism*  
+&nbsp;&nbsp;&nbsp;&nbsp;Reloading animations, Popups, Error Handling   
+
+*Other*  
+&nbsp;&nbsp;&nbsp;&nbsp;Localization, Responsiveness  
 
 ## Preliminary Constraints
 **Time**  
