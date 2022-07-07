@@ -5,6 +5,8 @@
 
 The project described in this documentation is a graphical user interface library for Unity3D engine. It is supposed to consist of various, reusable graphical lists and list elements for hierarchical and interconnected data manipulation, organization and presentation. 
 
+The documentation might be created in a bit chaotic way, however it serves a learning and experimenting tool. Some pages might be edited, some not - it would be great to clarify the process as the work advances.
+
 There are several purposes for this project to be created, all of them will be described in detail later. The same goes for the documentation itself.
 
 However, main guilty here is another application developed. Its identified features so far share a large extent of functionality, so to reduce an unneccesarily repeated work it seems the best to have a reusable and easily extentable common basis, which display a portion of essential qualities. This is why the documenting all of them and tracking is critical.
