@@ -6,7 +6,7 @@ It may change along with the project progress.
 
 ## Project Charter Creation
 &nbsp;&nbsp;&nbsp;&nbsp;
-Project charter should contains basic idea description with preliminary features and qualities in and out of scope and if known, also with their urgency.
+Project charter should contain basic idea description with preliminary features and qualities in and out of scope and if known, also with their urgency.
 Additionally it should contain important constraints, deliverables, risks and team description.
 
 ## Feasibility Study
@@ -14,6 +14,13 @@ Additionally it should contain important constraints, deliverables, risks and te
 Description of possible alternatives to achieving business goals and answering if is it realistic to create the project and how could be done best.
 
 ## Problem Space – Requirements Exploration
+
+Every requirement or decision should take into account following items:  
+\- Data - static and dynamic  
+\- Assets - could be graphics, any other data  
+\- Software - code, modules, plugins, addons, extensions, libraries, frameworks, engines, etc.  
+\- Hardware - platforms, devices and their components  
+\- Network - protocols, etc.   
 
 ### Functional Requirements Gathering  
 
@@ -32,3 +39,35 @@ For both minimal product and future with preliminary loose categorization based 
 ### Final Requirements Organization and Prioritization
 &nbsp;&nbsp;&nbsp;&nbsp;
 Based on estimated development time, complexity, benefits, urgency.
+
+## Solution Space – Requirements Exploration
+**General Technical Decisions**  
+
+\- Development environment and system (physical and virtual)  
+\- Programming languages, engines, frameworks or libraries.  
+\- Architectural concepts applied  
+\- Version control systems and branching strategy  
+\- Build automation and product delivery  
+\- IDEs and other tools
+
+**Processes Decisions**  
+**Top-level architecture decisions, patterns used and why, how to achieve quality goals**  
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
