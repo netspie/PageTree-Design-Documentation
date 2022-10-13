@@ -1,22 +1,23 @@
 # Project Charter
 
 **Working Title**  
-&nbsp;&nbsp;&nbsp;&nbsp;UTreeList
+&nbsp;&nbsp;&nbsp;&nbsp;PageTree
 
 **Project Leader**  
 &nbsp;&nbsp;&nbsp;&nbsp;Dariusz Luśnia
 
 **Project Description**  
-&nbsp;&nbsp;&nbsp;&nbsp;Graphical user interface library for Unity3D engine. It is supposed to consist of various, reusable graphical lists and list elements for hierarchical and interconnected data manipulation, organization and presentation.
+&nbsp;&nbsp;&nbsp;&nbsp;Online platform for:
+- structuring knowledge in a tree-like fashion with heavily interconnected data in a form of pages with focus on user expierience and navigation easiness,
+- practicing knowledge quickly, fast, with the least effort, most likely in a form of advancad, customizable flashcards in spaced repetition manner.
 
 ## Purposes
 **Main**  
-&nbsp;&nbsp;&nbsp;&nbsp;To provide a common basis for another application's features which are sharing same functionalities. It's needed to solve the original application domain problems easily.
+&nbsp;&nbsp;&nbsp;&nbsp;To provide a tool for practicing learned knowledge quickly and easily or for making notes.
 
 **Other**  
 &nbsp;&nbsp;&nbsp;&nbsp;\- To serve as a portfolio  
-&nbsp;&nbsp;&nbsp;&nbsp;\- To enhance software enginnering and design skills  
-&nbsp;&nbsp;&nbsp;&nbsp;\- To help others  
+&nbsp;&nbsp;&nbsp;&nbsp;\- To enhance software enginnering and design skills in web related technologies
 
 ## Essential Requirements
 
