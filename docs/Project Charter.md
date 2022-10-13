@@ -9,7 +9,7 @@
 **Project Description**  
 &nbsp;&nbsp;&nbsp;&nbsp;An online platform for:
 - structuring knowledge in a tree-like fashion with heavily interconnected data in a form of pages with focus on user expierience and navigation easiness,
-- practicing knowledge quickly, fast, with the least effort, most likely in a form of advancad, customizable flashcards in spaced repetition manner.
+- practicing knowledge quickly, fast, with the least effort, most likely in a form of advanced and customizable flashcards in spaced repetition manner.
 
 ## Purposes
 **Main**  
