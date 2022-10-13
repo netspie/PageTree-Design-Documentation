@@ -1,5 +1,5 @@
 
-This documentation is meant to provide a description of the [PageTree project](https://github.com/Dariusz-L/PageTree) design processes and architecture decisions.
+This documentation provides a description of the [PageTree project](https://github.com/Dariusz-L/PageTree) design processes and architecture decisions.
 
 ### Existing Design Processes
 The processes and documentation styles in this documentation are mainly inspired by the following (although largely modified for pragmatic purposes):
