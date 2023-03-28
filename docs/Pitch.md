@@ -23,8 +23,19 @@ Here are the other problems I noticed myself when learning from the existing med
 - Not fun.
 - If a content is quite good, it does not provide tools for rehearsal, so I don't forget things.
 
+### Options Available
 
+#### Books
 
-### Options
+#### 1-1 Teachers
 
-Courses? Articles? Books? Apps? Teachers?
+#### Free and Paid Online Courses
+
+#### Learning Platforms
+
+#### Apps
+
+#### Online Communities
+
+### Proposed Solution
+
