@@ -27,7 +27,11 @@ Here are the other problems I noticed myself when learning from the existing med
 
 #### Books
 
+Pros / Cons
+
 #### 1-1 Teachers
+
+#### Language Schools
 
 #### Free and Paid Online Courses
 
@@ -36,6 +40,7 @@ Here are the other problems I noticed myself when learning from the existing med
 #### Apps
 
 #### Online Communities
+
 
 ### Proposed Solution
 
