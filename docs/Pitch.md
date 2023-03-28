@@ -1,16 +1,30 @@
 
 ### Problem Description
 
-- Don't know where and how to start learning japanese in general.
-- Struggle with writing notes from videos, courses, articles, lectures - too much effort, boring, time-consuming.
-- Can't handle doing same things over and over again, looking on the same notes, same order, gives me headache, is boring, gives no challenge anymore, starting procrastinating.
-- Wanna learn all aspects - reading, listening, speaking, writing.
-- Wanna learn all media types - everyday speaking; different situations; art - anime, songs, articles; newspaper, websites
+Here are the questions I noticed other people asking:
+- Where to learn japanese language from? 
+- How to memorize and rehearse learned material?
+
+Here are the other problems I noticed myself when learning from the existing media:
+- Struggle with writing notes from videos, courses, articles, lectures - so much effort, time-consuming.
+- Cannot learn over and over again from the same notes in the same order - it becomes so boring, gives no challenge anymore, makes you procrastinate.
+- Does not provide tools for learning various aspects like reading, listening, speaking, writing.
+- Does not provide materials for different media types in a single base, it's all scattered all over the internet:
+  - linguistics - if I want to deeply understand the language structure and rules, its elements - radicals, kanji, kana, words, basic phrases, everything
+  - everyday speaking depending on different situations, places, people we talk to
+  - arts like manga, anime, songs, poems, stories, movies
+  - newspaper, websites, tv
 - Hard to get back and rehearse your knowledge in an easy way. No automation. No challenging tasks.
-- Hard to learn just a single concept of a subject, ex. song, anime episode, due to too much prerequisities, while it could be explained just enough for now.
-- I wanna learn just one thing, but also have option to understand it or its parts deeper whenever I want without additional research. It's should be all here.
-- Don't wanna be prevented from learn anywhere, anytime because of missing technology.
-- Learn in a structured way, from structured, well prepared standarized knowledge base.
-- I want the learning to be fun, easy, little effort, no wasting time to organize things.
-- I wanna read a book / article or watch a lesson/course with ready tool for learning.
-- I want to not forget things.
+- If knowledge is there, it's not easy to find it and go back to if we want to rehearse it.
+- Hard to learn just a single item, ex. song, anime episode, due to lack of easily understandable explanation of it's parts
+- If I learned just one thing briefly, no way to understand it or its parts deeper whenever I want without additional research in the internet.
+- Hard to learn or rehearse anywhere, anytime because of connectivity or mobile usability issues.
+- Often can't learn in an organized way, from structured, well prepared standarized single knowledge base.
+- Not fun.
+- If a content is quite good, it does not provide tools for rehearsal, so I don't forget things.
+
+
+
+### Options
+
+Courses? Articles? Books? Apps? Teachers?
