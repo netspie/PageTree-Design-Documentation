@@ -27,13 +27,31 @@ Here are the other problems I noticed myself when learning from the existing med
 
 #### Books
 
-Pros / Cons
+| Pros | Cons |
+| ---- | ---- |
+| Organized way of learning | Limited knowledge, can't ask a question if doubts |
+| Ready material just waiting to learn | Rather official situations examples than everyday life, slangs. |
+| Some exercises available for solidifying learned material | No provided tools for rehearsal except some exercises  |
 
 #### 1-1 Teachers
 
+| Pros | Cons |
+| ---- | ---- |
+| You can ask anything while having a session | You might not have time to ask all of your questions |
+| Ready material just waiting to learn | Costs a lot |
+| ---- | Not necessarily provided tools for rehearsal |
+
 #### Language Schools
 
+Costs a lot. Attend to a place. Although you can talk to and meet people. 
+
 #### Free and Paid Online Courses
+
+Some are quite good. Nicely
+
+#### Youtube Videos
+
+Some are quite good, but scattered all over the place.
 
 #### Learning Platforms
 
@@ -41,6 +59,16 @@ Pros / Cons
 
 #### Online Communities
 
+| Pros | Cons |
+| ---- | ---- |
+| You can ask anything | No guarantee the asked question will answered, or even so quite badly |
+| You can chat with people or even talk | --- |
+
+All of the mentioned options have some of pros and cons, and there is always a gap somewhere.
 
 ### Proposed Solution
+
+The proposition is to create a unified place, a knowledge base 
+- start little, but with the vision in mind
+- challenges - 
 
