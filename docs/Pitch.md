@@ -55,20 +55,32 @@ Some are quite good, but scattered all over the place.
 
 #### Learning Platforms
 
+| Pros | Cons |
+| ---- | ---- |
+| A lot of cool content | Costly |
+| There some good apps for practicing simple characters or words | No autoamtion for rehearsal |
+
 #### Apps
+
+| Pros | Cons |
+| ---- | ---- |
+| No cost | Incomplete or very poor explanations |
+| There some good apps for practicing simple characters or words | No advanced topics or phrases to learn or explain |
 
 #### Online Communities
 
 | Pros | Cons |
 | ---- | ---- |
-| You can ask anything | No guarantee the asked question will answered, or even so quite badly |
+| You can ask anything | No guarantee the asked question will answered, or if so quite badly |
 | You can chat with people or even talk | --- |
 
-All of the mentioned options have some of pros and cons, and there is always a gap somewhere.
+#### ChatGPT or other AI
+
+| Pros | Cons |
+| ---- | ---- |
+| You can ask anything and an answer | The answer is sometimes vague or even wrong and requires ton of typing and additional research, especially if the concept is advanced or rare |
+| | Can't track your progress |
 
 ### Proposed Solution
 
-The proposition is to create a unified place, a knowledge base 
-- start little, but with the vision in mind
-- challenges - 
 
